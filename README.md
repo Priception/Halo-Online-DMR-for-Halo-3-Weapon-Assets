@@ -8,3 +8,5 @@ This repository contains the data, tags, and fonts for the **Halo Online Weapon 
 2. **Paste** the assets into the root directory of your Editing Kit.
 3. Navigate to `data\priception\sound\weapons\dmr`.
 4. Run `Sound_Import.bat` to import all weapon sounds.
+5. Navigate to `/data/ui/hud/`.
+6. Run `Hud Import.bat` to import all HUD elements.
